@@ -19,6 +19,7 @@ Includes **EVVO Bisnis**, a web platform for fleet operators and merchants.
 - 🚚 Live fleet tracking, merchant promotions and a multi-role back office
 - 📱 Native mobile app + cloud backend + web portals, secured end-to-end with TLS
 - 🔒 Proprietary — source code is private · © Registered copyright (DJKI, No. 001585727)
+- 📂 Showcase: [evvo-showcase](https://github.com/danarardhito/evvo-showcase)
 
 ---
 
