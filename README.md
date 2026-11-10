@@ -1,6 +1,6 @@
 # Hi, I'm Danar Ardhito 👋
 
-**Senior Application Engineer & Solution Architect** · M.Kom.<br>
+**Senior Application Engineer & Solution Architect** · M.T.I.<br>
 AI Systems · Computer Vision · Digital Forensics · Log Analytics
 
 📍 Jakarta, Indonesia
